@@ -1,1 +1,5 @@
+Monday 07/25/2022
+Git course completed at:
+https://www.udacity.com/course/version-control-with-git--ud123
 
+Information about If else, while, for and functions read.
