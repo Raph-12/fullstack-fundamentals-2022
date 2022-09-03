@@ -1,3 +1,4 @@
 Wednesday 07/20/2022
 Your date of birth in the matrix? exercise
 The year of my birthday is 1992 and converted to binary is: 11111001000
+2. MIPS exercise / Completed
