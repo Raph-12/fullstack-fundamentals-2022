@@ -1,0 +1,19 @@
+1-What is a Javascript Module?
+Un módulo es solo un archivo. Un script es un módulo. Tan sencillo como eso. Los módulos pueden cargarse entre sí y usar directivas especiales export e import para intercambiar funcionalidad, llamar a funciones de un módulo de otro. La palabra clave export etiqueta las variables y funciones que deberían ser accesibles desde fuera del módulo actual.
+import permite importar funcionalidades desde otros módulos.
+
+2-Why are Javascript Modules necessary?
+The modules are important because is a way to organize and structure the code. We use them to break down large programs into smaller.to be more manageable and independent.
+
+3-What module standards are available in Node.JS?
+CommonJS and ECMAscript.
+
+4-What are the differences between ESModules and CommonJS modules?
+The main difference is that ES modules are the standards for  JS and CommonJS is the default in Node.
+
+5-Which types of modules exist in Node.JS?
+Node.js includes three types of modules:
+
+-Core Modules
+-Local Modules
+-Third Party Modules.
