@@ -13,7 +13,6 @@ The main difference is that ES modules are the standards for  JS and CommonJS is
 
 5-Which types of modules exist in Node.JS?
 Node.js includes three types of modules:
-
 -Core Modules
 -Local Modules
 -Third Party Modules.
