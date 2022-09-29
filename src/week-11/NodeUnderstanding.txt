@@ -14,4 +14,4 @@ It is, since let the developers to run js in Node instead of a browser and also 
 The main difference is that we can control the version where to run the app on.
 
 6-What is NVM and Why is it useful for Node.JS developers?
-NVM allows you to easily install and manage different versions of Node and switch between them.
+NVM allows you to easily install and manage different versions of Node and switch between them..
