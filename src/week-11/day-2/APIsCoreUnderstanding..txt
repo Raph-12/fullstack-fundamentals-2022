@@ -3,18 +3,25 @@ API are interfaces that allow software programs to communicating to each other a
 
 
 2-What is a Protocol?
-
+A network protocol is an established set of rules that determine how data is transmitted between different devices in the same network.
 
 3-Is the term API only applicable to the communication of programs over the Internet?
+No, its not, all applicable to everyone everytime that a situation requests requests and responses.
 
 
 4-Why is structured communication between two programs important?
-
+structured communication is very important bewteen softwares because is a better way to build trust and work faster and more efficient when all procedures are clear.
 
 5-Do we humans use APIs when communicating without technology?
+Yes, we do. there are several escenarios when we can say we do it. Example restaurant. 
 
 
 6-Is an API just another program or a standard?
-
+ APIs are standards for application data interchange, just as protocols are standards for network data interchange
 
 7-Do you know any API? Can you list at least 5 examples of APIs??
+-Pokemon Go.
+-Email validator
+-MusicXmatch
+-Open weather map
+-Flight Data.
