@@ -1,0 +1,38 @@
+1.What is HTTP?
+HTTP is an application layer protocol in the seven-layer OSI networking model, which standardizes the communication functions of telecommunications or computing systems regardless of the underlying internal structure and technology. 
+
+2.What is JSON?
+JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. It is easy for machines to parse and generate. It is based on a subset of the JavaScript Programming Language Standard ECMA-262 3rd Edition - December 1999.
+
+    2.1.Is JSON the same as a plain Javascript object?
+    A Javascript object has a similar syntax to JSON, it uses curly braces and key/value pairs. The main difference in syntax is that in a JSON object the keys must be a string written with double quotes
+
+
+3.What is REST?
+REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
+
+    3.1.Is REST a programming language, framework, technology, or architecture pattern?
+    It is a architecture pattern?.
+
+4.What is a Resource in REST?
+ a resource is something that can be stored on a computer and represented as a stream of bits: a document, a row in a database, or the result of running an algorithm. A resource may be a physical object like an apple, or an abstract concept like courage, 
+
+
+    4.1.What is a resource identifier?
+    A Uniform Resource Identifier (URI) is a unique sequence of characters that identifies a logical or physical resource used by web technologies. URIs may be used to identify anything, including real-world objects, such as people and places, concepts, or information resources such as web pages and books. 
+
+
+5.What is an HTTP method?
+The Hypertext Transfer Protocol (HTTP) is designed to enable communications between clients and servers. HTTP works as a request-response protocol between a client and server. Example: A client (browser) sends an HTTP request to the server; then the server returns a response to the client.
+
+        5.1.What HTTP methods does REST use within its architecture rules?
+        GET	Retrieve information about the REST API resource
+        POST	Create a REST API resource
+        PUT	Update a REST API resource
+        DELETE	Delete a REST API resource or related component
+
+        5.2.Why do we use HTTP methods in REST and how do they relate to resources?
+        We use HTTP methods because it provides lot of flexibility to the API developer. 
+
+6.Is REST the same as HTTP?
+ REST refers to a set of attributes of a particular architectural style, while HTTP is a well-defined protocol that happens to exhibit many features of a RESTful system.
