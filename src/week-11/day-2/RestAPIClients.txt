@@ -1,0 +1,5 @@
+1.Postman only works with REST APIs?
+Yes, Postman offers a REST Client that allows users to easily debug REST APIs.
+
+2.Is there an alternative to Postman?
+Swagger UI, Insomnia REST Client, Paw, Apigee, and cURL are the most popular alternatives and competitors to Postman.
