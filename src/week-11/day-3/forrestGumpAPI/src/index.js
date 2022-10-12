@@ -1,6 +1,6 @@
 import express from "express"
 
-const api = express();
+const api = express(); // Se usa para crear la libreria y se usa para el resultado de valor de retorno de express lo cual es una funcion
 
 api.get("/ping", (request, response) =>{
     response.send({message: "pong"});
